@@ -1,6 +1,26 @@
+# React Simple List App
+React-Typescript based simple list app that shows card in responsive design.
+
+## Used Stacks:
+- React
+- Material UI
+- Typescript
+- ESLint
+- Prettier
+
+## Demo of App
+
+You can check video here: https://www.screencast.com/t/WV8eqz8ADQS8
+[![Watch the video](https://content.screencast.com/users/SupremeDev/folders/Capture/media/7c41e1cf-d563-4b04-a708-41107c7d3fc3/FirstFrame.jpg)](https://www.screencast.com/t/WV8eqz8ADQS8)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Install dependencies
+Use node version 14, and run `yarn install` on the root directory.
+Once all dependencies are setup, you can use below available scripts.
 
 ## Available Scripts
 
